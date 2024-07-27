@@ -1,7 +1,5 @@
 # Kuppismart Solutions
 
-Welcome to the Kuppismart Solutions repository! This project features an integrated system for environmental monitoring and communication, leveraging various sensors and a SIM800 module to collect and transmit data.
-
 ## Project Overview
 
 This project features an integrated system for environmental monitoring and communication, leveraging various sensors and a SIM800 module to collect and transmit data. It is designed to monitor environmental parameters and send the data via SMS. The system uses the BME280 sensor to measure temperature and humidity, while CO2 and TDS sensors provide additional environmental metrics. The data is transmitted through the SIM800 module.
