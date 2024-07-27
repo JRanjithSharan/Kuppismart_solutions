@@ -42,4 +42,3 @@ The provided Arduino sketch initializes the sensors, reads their values, and sen
 - **Phone Number**: Modify the phone number in the `sendToSIM800L` function to your desired recipient.
 - **Sensor Calibration**: Adjust sensor readings and calibration as needed for your specific use case.
 
-Feel free to modify or expand upon this template as needed!
